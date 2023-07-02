@@ -12,13 +12,7 @@ EMAILGIT=$(cat /etc/github/email)
 USERGIT=$(cat /etc/github/username)
 
 mkdir /etc/github > /dev/null 2>&1
-
 sleep 2
-echo "lailafauziyah00@gmail.com" > /etc/github/email
-echo "kuhing" > /etc/github/username
-echo "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" > /etc/github/api
-clear
-
 function add_ip(){
 clear
 echo -e "$COLOR1┌─────────────────────────────────────────────────┐${NC}"
