@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "lailafauziyah00@gmail.com" > /etc/github/email
+echo "kuhing" > /etc/github/username
+echo "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" > /etc/github/api
+clear
